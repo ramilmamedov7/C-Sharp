@@ -1,4 +1,4 @@
-# C№
+# C#
 **C# Data Types  - avantajları və dezavantajları.**
 
 
