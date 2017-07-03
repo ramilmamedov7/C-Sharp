@@ -1,0 +1,9 @@
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\bin\Debug\netcoreapp1.1\Sequence.deps.json
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\bin\Debug\netcoreapp1.1\Sequence.runtimeconfig.json
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\bin\Debug\netcoreapp1.1\Sequence.runtimeconfig.dev.json
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\bin\Debug\netcoreapp1.1\Sequence.dll
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\bin\Debug\netcoreapp1.1\Sequence.pdb
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\obj\Debug\netcoreapp1.1\Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\obj\Debug\netcoreapp1.1\Sequence.AssemblyInfo.cs
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\obj\Debug\netcoreapp1.1\Sequence.dll
+C:\Users\Ramil Mamedov\Desktop\Sequence\Sequence\obj\Debug\netcoreapp1.1\Sequence.pdb

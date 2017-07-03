@@ -1,0 +1,18 @@
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\bin\Debug\11.05.2017.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\bin\Debug\11.05.2017.exe
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\bin\Debug\11.05.2017.pdb
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\obj\Debug\11.05.2017.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\obj\Debug\11.05.2017.exe
+c:\users\p501\documents\visual studio 2017\Projects\11.05.2017\11.05.2017\obj\Debug\11.05.2017.pdb
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\bin\Debug\11.05.2017.exe.config
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\bin\Debug\11.05.2017.exe
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\bin\Debug\11.05.2017.pdb
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\obj\Debug\11.05.2017.csprojResolveAssemblyReference.cache
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\obj\Debug\11.05.2017.exe
+C:\Users\Ramil Mamedov\Downloads\p301-11-05-2017-Rommel7-master\p301-11-05-2017-Rommel7-master\11.05.2017\obj\Debug\11.05.2017.pdb
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\bin\Debug\11.05.2017.exe.config
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\bin\Debug\11.05.2017.exe
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\bin\Debug\11.05.2017.pdb
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\obj\Debug\11.05.2017.csprojResolveAssemblyReference.cache
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\obj\Debug\11.05.2017.exe
+C:\Users\Ramil Mamedov\Downloads\Delete\11.05.2017\obj\Debug\11.05.2017.pdb
