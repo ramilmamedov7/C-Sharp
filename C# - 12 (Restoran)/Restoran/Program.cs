@@ -20,68 +20,35 @@ namespace Restoran
             Console.WriteLine("2.Kabab. - [3.5AZN] " + new string('-', 20) + " 6.Ayran. - [0.7AZN]");
             Console.WriteLine("3.Şorba. - [1.7AZN] " + new string('-', 20) + " 7.Kola.  - [1.0AZN]");
             Console.WriteLine("4.Dönər. - [1.2AZN] " + new string('-', 20) + " 8.Çay.   - [0.5AZN]");
-            ////Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("0.Programı bağla.");
+            void MainMethod(string name, double price)
+            {
+                Console.WriteLine("Neçə pors {0} istəyirsiniz?", name);
+                piece = Convert.ToInt32(Console.ReadLine());
+                total = piece * price;
+                sum = sum + total;
+            }
             for (int i = 1; i < 100; i++)
             {
                 Console.Write("\n>>Seçəcəyiniz məhsulun nömrəsini qeyd edin: ");
                 choice = Convert.ToInt32(Console.ReadLine());
                 if (choice == 1)
-                {
-                    Console.WriteLine("Neçə pors salat istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 1.5;
-                    sum = sum + total;
-                }
+                    MainMethod("salat", 1.5);
                 else if (choice == 2)
-                {
-                    Console.WriteLine("Neçə porst kabab istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 3.5;
-                    sum = sum + total;
-                }
+                    MainMethod("kabab", 3.5);
                 else if (choice == 3)
-                {
-                    Console.WriteLine("Neçə pors sup istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 1.7;
-                    sum = sum + total;
-                }
+                    MainMethod("sup", 1.7);
                 else if (choice == 4)
-                {
-                    Console.WriteLine("Neçə pors dönər istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 1.2;
-                    sum = sum + total;
-                }
+                    MainMethod("dönər", 1.2);
                 else if (choice == 5)
-                {
-                    Console.WriteLine("Neçə ədəd su istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 0.5;
-                    sum = sum + total;
-                }
+                    MainMethod("su", 0.5);
                 else if (choice == 6)
-                {
-                    Console.WriteLine("Neçə ədəd ayran istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 0.7;
-                    sum = sum + total;
-                }
+                    MainMethod("ayran", 0.7);
                 else if (choice == 7)
-                {
-                    Console.WriteLine("Neçə ədəd kola istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 1.0;
-                    sum = sum + total;
-                }
+                    MainMethod("kola", 1.0);
                 else if (choice == 8)
-                {
-                    Console.WriteLine("Neçə ədəd çay istəyirsiniz?");
-                    piece = Convert.ToInt32(Console.ReadLine());
-                    total = piece * 0.5;
-                    sum = sum + total;
-                }
+                    MainMethod("çay", 0.5);
                 else if (choice == 0)
                 {
                     Console.WriteLine("\nTəşəkkürlər. Çıxış üçün hər hansı bir düyməni basın.");
