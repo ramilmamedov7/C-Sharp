@@ -1,0 +1,7 @@
+C:\Users\Ramil\Desktop\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\Ramil\Desktop\Restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\Ramil\Desktop\Restoran\Restoran\bin\Debug\Restoran.pdb
+C:\Users\Ramil\Desktop\Restoran\Restoran\obj\Debug\Restoran.csprojResolveAssemblyReference.cache
+C:\Users\Ramil\Desktop\Restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\Restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\Ramil\Desktop\Restoran\Restoran\obj\Debug\Restoran.pdb
