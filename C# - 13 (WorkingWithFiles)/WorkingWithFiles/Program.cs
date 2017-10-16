@@ -15,21 +15,21 @@ namespace WoorkingWithFiles
             Console.Clear();
 
             #region SoundPlayer
-            //var music = new SoundPlayer();
-            //string path = @"C:\Users\Ramil\Desktop\WorkingWithFiles\Slide.wav";
-            //music.SoundLocation = path;
-            //music.Play();
-            //Console.Read();
+            var music = new soundplayer();
+            string path = @"c:\users\ramil\desktop\workingwithfiles\slide.wav";
+            music.soundlocation = path;
+            music.play();
+            console.read();
             #endregion
             //System.Diagnostics.Process.Start(@"C:\Users\Ramil\Desktop\Lab\Paradise.wav");
 
             #region New Document
-            //var document = new StreamWriter(@"C:\Users\Ramil\Desktop\Lab\text.txt");
-            //string words;
-            //Console.WriteLine("Ürək sözlərinizi daxil edin: ");
-            //words = Console.ReadLine();
-            //document.WriteLine(words);
-            //document.Close();
+            var document = new StreamWriter(@"C:\Users\Ramil\Desktop\Lab\text.txt");
+            string words;
+            Console.WriteLine("Ürək sözlərinizi daxil edin: ");
+            words = Console.ReadLine();
+            document.WriteLine(words);
+            document.Close();
             #endregion
         }
     }
