@@ -1,10 +1,4 @@
-# C-Sharp-7
-## Car!
-
-## Qaynaqlar
-
-- https://www.youtube.com/watch?v=P54_aOlEE8Y
- 
+# C# - 7 (Car - Console)
 ## Tapşırıq	
 
 - Masini sur (paramter olaraq km olacaq sistem yoxlamasi gerekirki bak-da olan benzin-le bu qeder gede biler mi?).
