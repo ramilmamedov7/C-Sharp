@@ -1,8 +1,0 @@
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\bin\Debug\ParkCinema.exe.config
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\bin\Debug\ParkCinema.exe
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\bin\Debug\ParkCinema.pdb
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\obj\Debug\ParkCinema.Form1.resources
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\obj\Debug\ParkCinema.Properties.Resources.resources
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\obj\Debug\ParkCinema.csproj.GenerateResource.Cache
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\obj\Debug\ParkCinema.exe
-C:\Users\Ramil Mamedov\Downloads\ParkCinema\ParkCinema\obj\Debug\ParkCinema.pdb

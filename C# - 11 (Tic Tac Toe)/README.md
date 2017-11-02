@@ -1,2 +1,1 @@
-# C-Sharp-11
-Tic Tac Toe
+# C-Sharp-11 - Tic Tac Toe
