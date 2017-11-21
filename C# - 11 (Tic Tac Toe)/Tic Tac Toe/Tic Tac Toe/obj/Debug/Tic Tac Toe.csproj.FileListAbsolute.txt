@@ -30,3 +30,14 @@ D:\Drive\Рабочий стол\C# - 11 (Tic Tac Toe) — копия\Tic Tac To
 D:\Drive\Рабочий стол\C# - 11 (Tic Tac Toe) — копия\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
 D:\Drive\Рабочий стол\C# - 11 (Tic Tac Toe) — копия\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
 D:\Drive\Рабочий стол\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Game.resources
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Game.resources
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\Drive\Рабочий стол\Git\C-Sharp\C# - 11 (Tic Tac Toe)\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb

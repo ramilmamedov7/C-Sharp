@@ -15,10 +15,5 @@ namespace Tic_Tac_Toe
             Game.SetPlayerNames(p1.Text, p2.Text);
             this.Close();
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
