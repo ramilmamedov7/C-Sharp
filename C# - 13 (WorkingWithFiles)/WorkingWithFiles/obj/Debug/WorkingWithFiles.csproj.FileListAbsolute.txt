@@ -1,7 +1,0 @@
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.csprojResolveAssemblyReference.cache
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.csproj.CoreCompileInputs.cache
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
-C:\Users\Ramil\Desktop\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb

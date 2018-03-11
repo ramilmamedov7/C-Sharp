@@ -1,9 +1,0 @@
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\bin\Debug\netcoreapp1.1\Taxi.deps.json
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\bin\Debug\netcoreapp1.1\Taxi.runtimeconfig.json
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\bin\Debug\netcoreapp1.1\Taxi.runtimeconfig.dev.json
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\bin\Debug\netcoreapp1.1\Taxi.dll
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\bin\Debug\netcoreapp1.1\Taxi.pdb
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\obj\Debug\netcoreapp1.1\Taxi.csprojResolveAssemblyReference.cache
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\obj\Debug\netcoreapp1.1\Taxi.AssemblyInfo.cs
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\obj\Debug\netcoreapp1.1\Taxi.dll
-C:\Users\Ramil Mamedov\Desktop\Taxi\Taxi\obj\Debug\netcoreapp1.1\Taxi.pdb
