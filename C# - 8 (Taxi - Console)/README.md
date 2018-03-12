@@ -1,4 +1,4 @@
-# C-Sharp - 8 - Taxi Uber
+# C-Sharp - 8 - Taxi
 
 ## Müştəri
 - Adını (Nümunə Əhməd) və olduğu yeri qeyd etmək (START POINT ) (Bizim sistemimizdə koordinatlar daxil ediləcək nümunə (40k,50k) ) (input : Əhməd-40-50)

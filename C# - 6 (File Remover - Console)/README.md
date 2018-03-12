@@ -1,5 +1,7 @@
 # C-Sharp-6
-## Delete APP
+## File Remover App
+
+For deleting files in chosen directory...
 
 # Qaynaqlar
 
